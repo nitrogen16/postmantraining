@@ -305,6 +305,8 @@
 											"    const json = pm.response.json();",
 											"    return { response: json };",
 											"}",
+											"",
+											"//zxc",
 											""
 										],
 										"type": "text/javascript",
@@ -514,6 +516,7 @@
 	],
 	"variable": [
 		{
+			"id": "10447894-ec11-472d-9ac3-5ee48f79036e",
 			"key": "collection_status",
 			"value": "available"
 		}
